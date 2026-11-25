@@ -1,176 +1,233 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,100:A78BFA&height=200&section=header&text=Pawan%20Ajay%20Prasad&fontSize=42&fontColor=0a0e17&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20RAG%20Systems&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:164E63,100:312E81&height=220&section=header&text=PAWAN%20PRASAD&fontSize=55&fontColor=E0F2FE&fontAlignY=42&desc=AI%20ENGINEER%20%7C%20RAG%20%7C%20AGENTIC%20AI&descSize=17&descAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=22D3EE&center=true&vCenter=true&width=750&lines=Engineering+Intelligent+AI+Applications;Building+Context-Aware+RAG+Systems;From+Machine+Learning+to+Agentic+AI;Turning+Complex+Problems+into+Smart+Solutions" />
+
+<br/><br/>
+
 <a href="https://pawan0207.github.io/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-5EEAD4?style=for-the-badge&labelColor=0a0e17" />
+<img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" />
 </a>
 <a href="https://www.linkedin.com/in/pawan-prasad-analyst/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LET'S_CONNECT-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 <a href="https://github.com/PAWAN0207">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0F172A?style=for-the-badge&logo=github&logoColor=E2E8F0" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications+%F0%9F%A4%96;Developing+Production-Oriented+RAG+Systems+%F0%9F%A7%A0;Exploring+Generative+%26+Agentic+AI+%E2%9C%A8;Turning+Ideas+into+AI-Powered+Solutions+%F0%9F%9A%80" />
+<img src="https://img.shields.io/badge/FOCUS-Generative_AI-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/BUILDING-RAG_Systems-4F46E5?style=flat-square" />
+<img src="https://img.shields.io/badge/EXPLORING-Agentic_AI-7C3AED?style=flat-square" />
 
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
+## `01` — Engineering Profile
 
-```python
-class PawanPrasad:
-    def __init__(self):
-        self.role = "AI Engineer | Generative AI | RAG Systems"
-        self.education = "MSc AI & ML Candidate @ Woolf University"
-        self.background = "BSc Chemistry @ University of Mumbai"
+<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-        self.interests = [
-            "Generative AI",
-            "Retrieval-Augmented Generation",
-            "Agentic AI",
-            "Machine Learning",
-            "AI Engineering"
-        ]
+I'm **Pawan Ajay Prasad**, an AI Engineer focused on building intelligent applications using Machine Learning, Generative AI, and Retrieval-Augmented Generation.
 
-        self.currently_learning = [
-            "Advanced RAG",
-            "LangGraph",
-            "AI Agents",
-            "Production AI Systems"
-        ]
+My engineering interests lie at the intersection of AI research, backend development, and practical product development.
 
-    def say_hi(self):
-        print("Let's build intelligent AI applications!")
+```yaml
+name: Pawan Ajay Prasad
+role: AI Engineer
+education: MSc AI & ML Candidate
+university: Woolf University
 
-pawan = PawanPrasad()
-print(pawan.role)
-print(pawan.interests)
+specialization:
+  - Generative AI
+  - Retrieval-Augmented Generation
+  - Agentic AI
+  - Machine Learning
+
+currently_building:
+  - Intelligent Knowledge Assistants
+  - Document-grounded AI Applications
+  - AI-powered Automation Systems
 ```
 
-- 🤖 Building AI-powered applications using **LLMs, RAG, and Machine Learning**
-- 🧠 Interested in **Agentic AI, intelligent workflows, and AI automation**
-- 🔍 Focused on developing reliable and production-oriented AI systems
-- 📚 Continuously improving my skills in AI Engineering and software development
-- 🚀 Passionate about transforming real-world problems into intelligent solutions
+<br clear="right"/>
 
-<br/>
-
-## 🛠️ Tech Stack
+## `02` — Technical Arsenal
 
 <div align="center">
 
-### 💻 Programming & Data
+### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,postgresql&theme=dark" />
-
-### 🤖 Machine Learning & AI
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
-
-### 🧠 Generative AI & RAG
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-Vector_Database-5B4BDB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Qdrant-Vector_Search-DC244C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scikit--learn-ML-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/LangChain-LLM_Framework-0F172A?style=for-the-badge&logo=chainlink&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/LangGraph-Agent_Workflows-0F172A?style=for-the-badge&logo=graphql&logoColor=A78BFA" />
 
-### ⚙️ Tools & Deployment
+### Backend & Data
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql&theme=dark" />
+
+### Infrastructure & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Vector_DB-ChromaDB-0F172A?style=for-the-badge&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Vector_Search-Qdrant-0F172A?style=for-the-badge&logoColor=F87171" />
+<img src="https://img.shields.io/badge/Cloud-Microsoft_Azure-0F172A?style=for-the-badge&logo=microsoftazure&logoColor=38BDF8" />
 
 </div>
 
-<br/>
+---
 
-## 📌 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🏥 **MediCare SOP Knowledge Assistant** | RAG-based healthcare SOP assistant providing document-grounded answers with source references and access control | Python, FastAPI, RAG, Gemini |
-| 🧠 **Infosys AI Knowledge Assistant** | Enterprise knowledge assistant using retrieval-augmented generation for document-based question answering | LangChain, LangGraph, FastAPI, ChromaDB |
-| 🏭 **Tata Steel Predictive Maintenance** | Predictive maintenance and failure diagnosis system combining Machine Learning and Generative AI | Python, ML, GenAI |
-| 💳 **Credit Risk Analysis** | Credit risk analysis and financial insights through exploratory data analysis and interactive dashboards | Python, SQL, Power BI |
-| 📱 **Smartphone Value Predictor** | Machine Learning application predicting smartphone value using product features | Python, Scikit-learn, Streamlit |
-| 🎬 **Movie Recommendation System** | Recommendation system providing personalized movie suggestions using machine learning | Python, Scikit-learn |
-
-</div>
-
-<br/>
-
-## 🧠 Generative AI & RAG Engineering
-
-My primary focus is building practical AI applications that can retrieve relevant information, understand user queries, and generate context-aware responses.
-
-### Areas of Interest
-
-- 📄 Document ingestion and processing
-- 🔎 Semantic search and vector embeddings
-- 🧩 Retrieval-Augmented Generation pipelines
-- 📚 Knowledge assistants and enterprise search
-- 🔐 Role-based access control for AI applications
-- 📊 Retrieval evaluation and answer quality
-- 🤖 Agentic workflows using LangGraph
-- ⚙️ FastAPI-based AI backend development
-
-<br/>
-
-## 📊 GitHub Statistics
+## `03` — Selected Engineering Projects
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PAWAN0207&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PAWAN0207&theme=tokyonight&hide_border=true" height="165" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAWAN0207&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PAWAN0207/PAWAN0207/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
-<br/>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://pawan0207.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-5EEAD4?style=for-the-badge&logo=googlechrome&logoColor=black" />
-</a>
-
-<a href="https://www.linkedin.com/in/pawan-prasad-analyst/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 <a href="https://github.com/PAWAN0207">
-<img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/PROJECTS-Explore_Repository-164E63?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+### 🧠 Enterprise AI Knowledge Assistant
+
+**Enterprise RAG | Document Intelligence | Knowledge Retrieval**
+
+An AI-powered knowledge assistant designed to retrieve relevant information from enterprise documents and provide context-aware answers.
+
+- Document ingestion and processing
+- Semantic retrieval and vector search
+- Retrieval-augmented generation
+- Context-aware question answering
+
+`Python` `FastAPI` `LangChain` `LangGraph` `ChromaDB`
+
+---
+
+### 🏥 MediCare SOP Knowledge Assistant
+
+**Healthcare AI | Grounded Responses | Access Control**
+
+A document-grounded assistant designed to help healthcare staff retrieve information from Standard Operating Procedures.
+
+- SOP-based question answering
+- Source-grounded responses
+- Document references and citations
+- Role-based access control
+
+`Python` `RAG` `FastAPI` `Gemini`
+
+---
+
+### 🏭 Predictive Maintenance & Failure Diagnosis
+
+**Industrial AI | Predictive Analytics | Generative AI**
+
+A predictive maintenance project focused on identifying potential equipment failures and supporting diagnostic workflows.
+
+- Machine learning-based failure prediction
+- Data-driven maintenance insights
+- Integration of predictive analytics and AI
+
+`Python` `Scikit-learn` `Machine Learning` `GenAI`
+
+---
+
+### 💳 Credit Risk Intelligence
+
+**Financial Analytics | Risk Analysis | Business Intelligence**
+
+An analytical project focused on understanding credit risk patterns and transforming financial data into actionable insights.
+
+- Exploratory data analysis
+- Credit risk pattern identification
+- Interactive Power BI dashboards
+
+`Python` `SQL` `Power BI` `Pandas`
+
+---
+
+### 📱 Smartphone Value Predictor
+
+**Machine Learning | Regression | Interactive Application**
+
+A machine learning application that estimates smartphone value using product specifications and a trained regression model.
+
+`Python` `Random Forest` `Streamlit`
+
+---
+
+## `04` — AI Engineering Interests
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-Document_Intelligence-0F172A?style=for-the-badge&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/02-Semantic_Search-0F172A?style=for-the-badge&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/03-RAG_Evaluation-0F172A?style=for-the-badge&logoColor=22D3EE" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/04-AI_Agents-0F172A?style=for-the-badge&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/05-LLM_Applications-0F172A?style=for-the-badge&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/06-AI_Automation-0F172A?style=for-the-badge&logoColor=A78BFA" />
+
+</div>
+
+---
+
+## `05` — GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PAWAN0207&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PAWAN0207&hide_border=true&background=0F172A&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAWAN0207&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1" height="150"/>
+
+</div>
+
+---
+
+## `06` — Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PAWAN0207/PAWAN0207/output/github-contribution-grid-snake-dark.svg" alt="Contribution animation" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### LET'S BUILD SOMETHING INTELLIGENT.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=22D3EE&center=true&vCenter=true&width=500&lines=Open+to+AI+Engineering+Opportunities;Always+Learning.+Always+Building." />
+
+<br/>
+
+<a href="https://pawan0207.github.io/">
+<img src="https://img.shields.io/badge/PORTFOLIO-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0F172A" />
+</a>
+<a href="https://www.linkedin.com/in/pawan-prasad-analyst/">
+<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:5EEAD4&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,50:164E63,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
