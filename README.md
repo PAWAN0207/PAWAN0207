@@ -1,29 +1,24 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:164E63,100:312E81&height=220&section=header&text=PAWAN%20PRASAD&fontSize=55&fontColor=E0F2FE&fontAlignY=42&desc=AI%20ENGINEER%20%7C%20RAG%20%7C%20AGENTIC%20AI&descSize=17&descAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090D,30:FF6B35,70:F72585,100:08090D&height=250&section=header&text=PAWAN%20PRASAD&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20RAG&descAlignY=60&descSize=17" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=22D3EE&center=true&vCenter=true&width=750&lines=Engineering+Intelligent+AI+Applications;Building+Context-Aware+RAG+Systems;From+Machine+Learning+to+Agentic+AI;Turning+Complex+Problems+into+Smart+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF6B35&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Engineering+Next-Gen+RAG+Systems;Exploring+Agentic+AI+%26+LLM+Applications;Turning+Ideas+Into+Intelligent+Products" />
 
 <br/><br/>
 
 <a href="https://pawan0207.github.io/">
-<img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/PORTFOLIO-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=black" />
 </a>
+
 <a href="https://www.linkedin.com/in/pawan-prasad-analyst/">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/LINKEDIN-F72585?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://github.com/PAWAN0207">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-0F172A?style=for-the-badge&logo=github&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/GITHUB-08090D?style=for-the-badge&logo=github&logoColor=FFD166" />
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FOCUS-Generative_AI-0891B2?style=flat-square" />
-<img src="https://img.shields.io/badge/BUILDING-RAG_Systems-4F46E5?style=flat-square" />
-<img src="https://img.shields.io/badge/EXPLORING-Agentic_AI-7C3AED?style=flat-square" />
 
 </div>
 
