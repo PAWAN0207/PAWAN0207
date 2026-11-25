@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090D,30:FF6B35,70:F72585,100:08090D&height=250&section=header&text=PAWAN%20PRASAD&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20RAG&descAlignY=60&descSize=17" width="100%" />
+<img src="./pawan_header.gif" width="100%" alt="Pawan Prasad - AI Systems Engineer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF6B35&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Engineering+Next-Gen+RAG+Systems;Exploring+Agentic+AI+%26+LLM+Applications;Turning+Ideas+Into+Intelligent+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Applications;Engineering+RAG+%26+Agentic+AI+Systems;Turning+Ideas+Into+Intelligent+Products" />
 
-<br/><br/>
+<br/>
 
 <a href="https://pawan0207.github.io/">
 <img src="https://img.shields.io/badge/PORTFOLIO-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=black" />
@@ -14,10 +14,6 @@
 
 <a href="https://www.linkedin.com/in/pawan-prasad-analyst/">
 <img src="https://img.shields.io/badge/LINKEDIN-F72585?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/PAWAN0207">
-<img src="https://img.shields.io/badge/GITHUB-08090D?style=for-the-badge&logo=github&logoColor=FFD166" />
 </a>
 
 </div>
